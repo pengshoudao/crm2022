@@ -1,5 +1,6 @@
 Component
 <context:property-placeholder location="classpath:test.properties" />
 hello world 
+my name is pengshoudao
 
 28 5:07
