@@ -1,0 +1,4 @@
+Component
+<context:property-placeholder location="classpath:test.properties" />
+welcome to changsha
+28 5:07
