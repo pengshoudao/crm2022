@@ -4,4 +4,6 @@ public interface SomeService {
     void doSome();
 
     void doSomething();
+
+    void doQueryData();
 }
