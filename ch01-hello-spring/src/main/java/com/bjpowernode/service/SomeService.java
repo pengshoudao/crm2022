@@ -6,4 +6,6 @@ public interface SomeService {
     void doSomething();
 
     void doQueryData();
+
+    void doDeleteData();
 }
