@@ -12,4 +12,8 @@ public class SomeServiceImpl implements SomeService {
     public void doSome() {
         System.out.println("执行了SomeServiceImpl的doSome()方法");
     }
+
+    public void doOther(){
+        System.out.println("需要做其它的功能");
+    }
 }
