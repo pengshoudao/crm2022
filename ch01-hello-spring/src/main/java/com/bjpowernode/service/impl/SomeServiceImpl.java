@@ -16,4 +16,6 @@ public class SomeServiceImpl implements SomeService {
     public void doOther(){
         System.out.println("需要做其它的功能");
     }
+
+    public void createCatVo(){}
 }
