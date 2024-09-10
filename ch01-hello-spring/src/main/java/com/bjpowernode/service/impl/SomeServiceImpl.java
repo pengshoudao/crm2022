@@ -20,4 +20,6 @@ public class SomeServiceImpl implements SomeService {
     public  void doView(){}
 
     public void createCatVo(){}
+
+    public void createXMVO(){}
 }
