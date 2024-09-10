@@ -21,5 +21,7 @@ public class SomeServiceImpl implements SomeService {
 
     public void createCatVo(){}
 
+    public void createXMVO(){}
+
     public void doJob(){}
 }
