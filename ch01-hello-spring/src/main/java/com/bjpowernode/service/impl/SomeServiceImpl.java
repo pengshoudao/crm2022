@@ -24,4 +24,6 @@ public class SomeServiceImpl implements SomeService {
     public void createXMVO(){}
 
     public void doJob(){}
+
+    public void doADF(){}
 }
